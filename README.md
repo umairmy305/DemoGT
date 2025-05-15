@@ -8,4 +8,4 @@ Colab Instrutions:
 5. Run the following command in a new cell: `%cd '/content/drive/My Drive/Colab Notebooks/'`
 6. Run `!git clone https://github.com/umairmy305/DemoGT`
 7. You should be able to see the repository in `Colab Notebooks`
-8. Open the notebook `TeachingDemoGTWithExercises.ipynb`
+8. Open the notebook `RegressionNotebook2025.ipynb`
